@@ -46,7 +46,7 @@ $qrData = urlencode("Nom: {$user['username']} - Centre: {$user['center']}");
 .username {
     position: absolute;
     top: 330px;
-    left: 530px;
+    left: 520px;
     font-size: 18px;
     font-weight: bold;
     color: #ffffff;
